@@ -7,7 +7,6 @@ import javax.swing.JOptionPane;
 public class Garaxe {
 int numeroCoche;
 String matricula;
-Scanner sc= new Scanner(System.in);
 private double hora,pagado2,devolto,prezo;
   
 
