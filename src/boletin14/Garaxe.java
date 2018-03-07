@@ -23,6 +23,7 @@ private double hora,pagado2,devolto,prezo;
         this.prezo = prezo;
     }
 
+    
     @Override
     public String toString() {
         return "Garaxe{" + "numeroCoche=" + numeroCoche + ", matricula=" + matricula + ", hora=" + hora + ", pagado2=" + pagado2 + ", devolto=" + devolto + ", prezo=" + prezo + '}';
